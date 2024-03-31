@@ -26,9 +26,8 @@ List any software, libraries, or tools that need to be installed before someone 
 Step-by-step instructions on how to install and set up your project.
 
 ```bash
-git clone https://github.com/your-username/Portfolio-Template-4.git
+https://github.com/BoddepallyVenkatesh06/Portfolio-Template-4
 cd Portfolio-Template-4
-# Additional steps, if any
 ```
 
 ### Usage
